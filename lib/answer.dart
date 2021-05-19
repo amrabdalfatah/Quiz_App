@@ -5,6 +5,7 @@ class Answer extends StatelessWidget {
   final Function selectAnswer;
 
   Answer({@required this.textAnswer, @required this.selectAnswer});
+
   @override
   Widget build(BuildContext context) {
     return Container(
