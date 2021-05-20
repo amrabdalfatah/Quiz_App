@@ -10,6 +10,6 @@ This App is used for Quize Applications which you can read Questions and choose 
 
 Images: 
 
-<img src="images/first_pic.jfif" width="100">
+<img src="images/first_pic.jfif" width="500">
 
-<img src="images/second_pic.jfif" width="100">
+<img src="images/second_pic.jfif" width="500">
