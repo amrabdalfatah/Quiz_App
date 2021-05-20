@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+This project is the first of course The Flutter Development bu Academind on Udemy.
 
-This project is a starting point for a Flutter application.
+In this project, there are lots of things to learn Flutter as a beginning.
 
-A few resources to get you started if this is your first Flutter project:
+This App is used for Quize Applications which you can read Questions and choose the Answer from Buttons 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Images: 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/first_pic.jfif" width="100">
+
+<img src="images/second_pic.jfif" width="100">
